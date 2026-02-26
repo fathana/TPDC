@@ -1,6 +1,6 @@
 # Temporal Prototype Driven Correction (TPDC)
 
-This repository is for our TPDC paper currently under review, entitled "Investigation of various label correction schemes for the self-supervised speaker verification task". The code of our experiments will be available upon acceptance of our paper. We also include below additional ablation studies for our proposed TPDC label correction method.
+This repository is for our TPDC paper currently under review. The code of our experiments will be available upon acceptance of our paper. We also include below additional ablation studies for our proposed TPDC label correction method.
 
 # Label noise filtering threshold influence on label correction and SV
 In Table 3, we show the Label correction (LC) performance of the different LC methods in terms of ACC and NMI and SV performance in terms of EER (%)
