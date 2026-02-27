@@ -20,3 +20,6 @@ In Table 5, we run the different label correction methods with different hyperpa
 of these different LC methods.
 ![](/label_correction_methods_hyperparameters.png).
 
+# TPDC compared to other label correction schemes
+In Figure 2, we compare the behavior of TPDC with other label correction schemes across training epochs, evaluating both label correction performance (ACC and NCC) and downstream speaker verification performance in terms of EER. Figure 2 clearly demonstrates greater training stability, improved label correction accuracy, and stronger generalization when using the TPDC-based label correction method.
+![](/EER_ACC_over_epochs_different_LC_schemes.png).
